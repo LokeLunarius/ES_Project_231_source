@@ -6,3 +6,5 @@ This project is part of the assignment for the course Embedded system
 ## Components
 - STM32F411CEU6
 - Sipeed 6+1 Mic Array Module
+## Demonstration
+[Google Drive](https://drive.google.com/drive/folders/1uVt2a38O6dPz_yzzX5PPRxpqXCYd-WZa?usp=sharing)
